@@ -1,4 +1,4 @@
-# SiteOrigin Page Builder czech
+# SiteOrigin Page Builder czech/čeština
 
 ## English
 ### Prerequisites 
